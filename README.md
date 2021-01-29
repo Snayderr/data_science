@@ -12,9 +12,9 @@ As a experienced Data Scientist and ...
 **Background in:** Python, Machine Learning, ...
 
 **Links:**
-* [Blog](...)
+
 * [LinkedIn](https://www.linkedin.com/in/douglas-barbonaglia-b53aa91ba/)
-* [Medium](...)
+
 
 
 ## Projetos:
