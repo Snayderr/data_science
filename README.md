@@ -19,7 +19,7 @@ As a experienced Data Scientist and ...
 
 ## Projetos:
 
-* **People Satisfaction and GDP:** https://bit.ly/3pvhvJf
+* **Analisando os Dados do Airbnb (Oslo).ipynb:** https://bit.ly/2YpKFgH
 
 
 ---
